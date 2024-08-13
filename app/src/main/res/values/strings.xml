@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intern Test</string>
+
+    <!--Main Screen-->
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+
+    <!--Second Screen-->
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_name">Your Name</string>
+    <string name="user_name">Selected User Name</string>
+    <string name="choose">Choose a User</string>
+
+    <!--Third Screen-->
+    <string name="third_screen">Third Screen</string>
+    <string name="fullname">Firstname Lastname</string>
+    <string name="email">EMAIL@EMAIL.COM</string>
+
+</resources>
